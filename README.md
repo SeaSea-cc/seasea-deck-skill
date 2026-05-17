@@ -12,7 +12,7 @@ Reverse any strategic Markdown deck into **Accenture/Deloitte boardroom-grade GP
 ## Quick start
 
 ```bash
-git clone https://github.com/aaronwz0/seasea-cc.git
+git clone https://github.com/SeaSea-cc/seasea-deck-skill.git
 cd seasea-cc
 
 # Set API key
